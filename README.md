@@ -22,3 +22,4 @@ Last was my footer and probably the easiest part to add at the end of my webpage
 The CSS in this module was a little more tricky and I ended up looking up a lot of different examples through W3schools, MDN, and YouTube to see tutorials. 
 
 I also added at the end of my CSS stylesheet a Media Querey to make it viewable on different devices.
+
